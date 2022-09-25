@@ -7,6 +7,7 @@ int main()
     f1=0;
     f2=1;
     printf("\n%d%d",f1,f2);
+    printf("Mihir");
     for(i=2;i<=n;i++)
     {
        fnext=f1+f2;
